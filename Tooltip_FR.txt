@@ -1,0 +1,73 @@
+Tooltip_FR = {
+
+  Tooltip_BuildingMenuObj_SecretEntranceShelf = "Étagère d'entrée secrète",
+  Tooltip_BuildingMenuObj_SecretEntranceDoor = "Porte d'entrée secrète",
+  
+  Tooltip_SecretEntranceShelf = "Une étagère permettant de garder vos livres organisés tout en dissimulant astucieusement une entrée secrète. Associez-la à la porte d'entrée secrète pour créer un passage caché et transparent au sein de votre planque.",
+  Tooltip_SecretEntranceDoor = "Une étagère intelligemment conçue qui s'ouvre pour révéler un passage caché. Parfait pour une échappatoire rapide et furtive.",
+
+  Tooltip_BuildingMenuObj_Log_Wall = "Mur en rondins",
+  Tooltip_BuildingMenuObj_Log_Door_Frame = "Cadre de porte en rondins",
+  Tooltip_BuildingMenuObj_Log_Window_Frame = "Cadre de fenêtre en rondins",
+  Tooltip_BuildingMenuObj_Twig_Window = "Fenêtre en brindille",
+  Tooltip_BuildingMenuObj_Log_Pillar = "Pilier en rondins",
+  Tooltip_BuildingMenuObj_Log_Crate = "Caisse en rondins",
+
+  Tooltip_Log_Wall = "Un mur solide fait de rondins étroitement empilés.",
+  Tooltip_Log_Door_Frame = "Un cadre robuste en rondins pour vos portes.",
+  Tooltip_Log_Window_Frame = "Un cadre de fenêtre résistant en rondins.",
+  Tooltip_Log_Pillar = "Un puissant support vertical en rondins.",
+  Tooltip_Log_Crate = "Une caisse simple et rustique, fabriquée à partir de rondins.",
+  
+  Tooltip_BuildingMenuObj_Log_Roof_Pitched_1 = "Toit en rondins inclinés 1",
+  Tooltip_BuildingMenuObj_Log_Roof_Pitched_2 = "Toit en rondins inclinés 2",
+  Tooltip_BuildingMenuObj_Log_Roof_Pitched_3 = "Toit en rondins inclinés 3",
+
+  Tooltip_BuildingMenuObj_Log_Stairs = "Escaliers en rondins",
+  Tooltip_Forest_Furvival_Generic = "Indispensable pour la survie en milieu sauvage.",
+
+  Tooltip_BuildingMenuObj_Chopping_Block = "Billot",
+
+  Tooltip_BuildingMenuObj_Fancy_White_Double_Wardrobe = "Armoire double raffinée blanche",
+  Tooltip_BuildingMenuObj_Fancy_White_Double_Wardrobe_Glass = "Armoire double raffinée blanche avec vitre",
+
+  Tooltip_BuildingMenuObj_Fancy_Oak_Drawers = "Tiroirs raffinés en chêne",
+  Tooltip_BuildingMenuObj_Fancy_Oak_Wardrobe = "Armoire raffinée en chêne",
+
+  Tooltip_BuildingMenuObj_Light_Wood_Double_Wardrobe = "Armoire double en bois clair",
+  Tooltip_BuildingMenuObj_Light_Wood_Double_Wardrobe_Glass = "Armoire double en bois clair avec vitre",
+
+  Tooltip_BuildingMenuObj_Fancy_Dark_Drawers = "Tiroirs sombres raffinés",
+  Tooltip_BuildingMenuObj_Fancy_Dark_Wardrobe = "Armoire sombre raffinée",
+
+  Tooltip_BuildingMenuObj_Barrel_On_Pallet = "Baril sur palette",
+  Tooltip_BuildingMenuObj_Small_Boxes_On_Pallet = "Petites boîtes sur palette",
+  Tooltip_BuildingMenuObj_Vegetable_Baskets_On_Pallet = "Paniers de légumes sur palette",
+  
+  Tooltip_BuildingMenuObj_Cinderblock_and_Wire_Fence = "Parpaing et clôture en grillage",
+  Tooltip_BuildingMenuObj_Cinderblock_and_Wire_Fence_Corner = "Angle de parpaing et clôture en grillage",
+  Tooltip_BuildingMenuObj_Cinderblock_and_Wire_Fence_Post = "Poteau de parpaing et clôture en grillage",
+
+  Tooltip_BuildingMenuObj_Cinderblock_Fence = "Clôture en parpaing",
+  Tooltip_BuildingMenuObj_Cinderblock_Fence_Corner = "Angle de clôture en parpaing",
+  Tooltip_BuildingMenuObj_Cinderblock_Fence_Post = "Poteau de clôture en parpaing",
+
+  Tooltip_BuildingMenuObj_Cinderblock_Fence_with_Vines1 = "Clôture en parpaing avec vignes 1",
+  Tooltip_BuildingMenuObj_Cinderblock_Fence_with_Vines2 = "Clôture en parpaing avec vignes 2",
+  Tooltip_BuildingMenuObj_Cinderblock_Fence_Corner_with_Vines = "Angle de clôture en parpaing avec vignes",
+  Tooltip_BuildingMenuObj_Cinderblock_Fence_Post_with_Vines = "Poteau de clôture en parpaing avec vignes",
+
+  Tooltip_BuildingMenuObj_Cinderblock_and_Planks_Fence = "Clôture en parpaings et planches",
+  Tooltip_BuildingMenuObj_Cinderblock_and_Planks_Fence_Corner = "Angle de clôture en parpaings et planches",
+  Tooltip_BuildingMenuObj_Cinderblock_and_Planks_Fence_Post = "Poteau de clôture en parpaings et planches",
+
+  Tooltip_BuildingMenuObj_Wooden_Fence_Post = "Poteau de clôture en bois",
+  Tooltip_BuildingMenuObj_Wooden_Fence = "Clôture en bois",
+  Tooltip_BuildingMenuObj_Wooden_Fence_Corner = "Angle de clôture en bois",
+
+  Tooltip_BuildingMenuObj_White_Wooden_Fence_Post = "Poteau de clôture en bois blanc",
+  Tooltip_BuildingMenuObj_White_Wooden_Fence = "Clôture en bois blanc",
+  Tooltip_BuildingMenuObj_White_Wooden_Fence_Corner = "Angle de clôture en bois blanc",
+  Tooltip_BuildingMenuObj_White_Wooden_Fence_Gate = "Portail de clôture en bois blanc",
+
+}
